@@ -1,0 +1,17 @@
+{
+	"mother":{
+			"age": 63,
+		"quality": "good",
+		"apperance" : {
+			"eyes": "black",
+			"hari": "black"
+	},
+
+	"father": 	{
+		"age": 63,
+		"quality": "good",
+		"apperance" : {
+			"eyes": "black",
+			"hari": "black"
+		}
+}

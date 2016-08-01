@@ -1,0 +1,22 @@
+
+[ {
+	"relationShip": "mother",
+		"name": "Lee",
+	"age": 63,
+	"quality": "good",
+	"apperance" : {
+		"eyes": "black",
+		"hari": "black"
+	},
+	{
+	"relationShip": "father",
+		"name": "Lim",
+	"age": 69,
+	"quality": "good",
+	"apperance" : {
+		"eyes": "black",
+		"hari": "black"
+	},
+
+}
+]
